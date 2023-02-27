@@ -134,3 +134,4 @@ cypress/videos
 cypress/reports
 cypress/parallel-weights.json
 mochawesome-report
+.fake
